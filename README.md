@@ -1,6 +1,6 @@
 # Hi, I'm Elise!
  - 🍒 I'm learning Java
- - 🌸 PUCRS - Ciência da Computação 
+ - 🌸 PUCRS - Computer Science
  - 🍓 Brasil 
 
 <div align="center">
