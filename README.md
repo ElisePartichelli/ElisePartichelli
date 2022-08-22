@@ -1,5 +1,7 @@
 # Hi, I'm Elise!
- - 🍒 I'm learning Java
+ - 🌸 Java
  - 🌸 PUCRS - Computer Science
- - 🍓 Brasil 
+ - 🌸 Brasil 
+ - 🌸 Python 
+ - 🌸 C 
 
