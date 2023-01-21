@@ -1,7 +1,6 @@
 # Hi, I'm Elise!
- - 🌸 Java
- - 🌸 PUCRS - Computer Science
- - 🌸 Brasil 
- - 🌸 Python 
- - 🌸 C 
+ - ♡ PUCRS - Computer Science
+ - ♡ Brasil 
+ - ♡ Dell Technologies - Eldorado do Sul, BR
+ 
 
