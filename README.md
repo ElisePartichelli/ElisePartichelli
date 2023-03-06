@@ -1,6 +1,6 @@
 # Hi, I'm Elise!
- - ♡ PUCRS - Computer Science
- - ♡ Brasil 
- - ♡ Dell Technologies - Eldorado do Sul, BR
+  PUCRS - Computer Science
+  Brasil 
+  Dell Technologies 
  
 
